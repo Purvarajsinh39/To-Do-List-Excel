@@ -44,11 +44,10 @@ The main aim of the project is to demonstrate how Excel, combined with VBA, can 
 - **Download Link**: TO-DO_List.xlsx file for use.
 
 ## Certificate
-Certified by **L J University**, School of Computer Applications, Department of BCA, Division D - 54.
+Certified by **L J University**, School of Computer Applications, Department of BCA
 
 ## Developer
 - **Name**: Vaghela Purvarajsinh Kuldeepsinh
-- **Enrollment No**: 23018501210273
 
 ---
 > This project showcases how Excel and VBA can be combined to build simple yet efficient desktop-based productivity tools for everyday use.
