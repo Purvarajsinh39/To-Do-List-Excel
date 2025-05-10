@@ -1,11 +1,11 @@
-# To-Do List Project (Excel + VBA)
+# ✅ To-Do List Project (Excel + VBA)
 
-## Project Overview
+## 📌 Project Overview
 This project is a **To-Do List** created using **Microsoft Excel** and **Visual Basic for Applications (VBA)**. It was developed as part of the college curriculum for the **Bachelor of Computer Applications (BCA)**, Semester 3.
 
 The main aim of the project is to demonstrate how Excel, combined with VBA, can be used to create a powerful and customizable task management tool that helps users stay organized, track progress, and manage deadlines effectively.
 
-## Features
+## ✨ Features
 - **Task Listing**: Easily add and list tasks.
 - **Due Dates**: Set deadlines for each task.
 - **Progress Tracking**: Mark tasks as Pending or Completed.
@@ -13,41 +13,56 @@ The main aim of the project is to demonstrate how Excel, combined with VBA, can 
 - **Customization**: Color-code tasks, highlight important activities, and personalize the list.
 - **Automation with VBA**: Simplify repetitive tasks and improve functionality.
 
-## Software Requirements
+## 🛠️ Software Requirements
 - Microsoft Excel
 - Visual Basic for Applications (VBA)
 - (Optional) Microsoft 365
 
-## Hardware Requirements
-- Processor: Intel Core i3 / AMD Ryzen 3
-- RAM: 4 GB
-- Storage: 4 GB available space
-- Display: Full HD (1080p)
-- Keyboard and Mouse
+## 💻 Hardware Requirements
+- **Processor**: Intel Core i3 / AMD Ryzen 3  
+- **RAM**: 4 GB  
+- **Storage**: 4 GB available space  
+- **Display**: Full HD (1080p)  
+- **Keyboard and Mouse**
 
-## Advantages
+## ✅ Advantages
 - **Automation**: VBA scripts automate sorting, filtering, and reminders.
 - **Customization**: Highly flexible design tailored to user needs.
 - **Offline Access**: No internet required.
 - **Easy Integration**: Can interact with Microsoft Outlook and other Office apps.
 
-## Disadvantages
+## ⚠️ Disadvantages
 - **Learning Curve**: VBA requires programming knowledge.
 - **Limited Real-Time Collaboration**: Not ideal for multi-user environments.
 - **Maintenance Needed**: VBA code must be updated with Excel version changes.
 - **Security Risks**: Macros can be vulnerable if not properly managed.
 
-## Project Structure
+## 📂 Project Structure
 - **Excel Sheet**: Contains task list and formatting.
 - **VBA Code**: Automates task management operations.
 - **Screenshots**: Visual representation of the project and code.
-- **Download Link**: TO-DO_List.xlsx file for use.
+- **Download Link**: `TO-DO_List.xlsx` file for use.
 
-## Certificate
+## 🖼️ Screenshots
+
+### 🧾 To-Do List Layout
+
+![To-Do List Screenshot](images/todo_list_layout.png)
+
+---
+
+### 💻 VBA Code Editor
+
+![VBA Code Screenshot](images/vba_code_screenshot.png)
+
+---
+
+## 🎓 Certificate
 Certified by **L J University**, School of Computer Applications, Department of BCA
 
-## Developer
+## 👨‍💻 Developer
 - **Name**: Vaghela Purvarajsinh Kuldeepsinh
 
 ---
+
 > This project showcases how Excel and VBA can be combined to build simple yet efficient desktop-based productivity tools for everyday use.
